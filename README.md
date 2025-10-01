@@ -16,10 +16,11 @@ It allows you to design, customize, and preview professional resumes in real-tim
 ---
 
 ## 📸 Screenshots
+![WhatsApp Image 2025-10-02 at 2 00 18 AM](https://github.com/user-attachments/assets/2dcd9f42-7500-4dcf-86d2-5676ecd3c041)
+![WhatsApp Image 2025-09-30 at 10 34 48 PM (3)](https://github.com/user-attachments/assets/bf6fd89f-2c64-4673-926d-c06cf9f80599)
+![WhatsApp Image 2025-10-02 at 2 00 18 AM (1)](https://github.com/user-attachments/assets/9f66b74f-ee04-44eb-a8d6-6d65c499c45c)
 
-| Resume Preview | Skills Section | Projects Section |
-|---------------|----------------|------------------|
-| |
+
 
 ---
 
